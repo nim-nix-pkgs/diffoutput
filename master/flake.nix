@@ -11,7 +11,6 @@
   inputs.src-diffoutput-master.ref   = "refs/heads/master";
   inputs.src-diffoutput-master.owner = "JohnAD";
   inputs.src-diffoutput-master.repo  = "diffoutput";
-  inputs.src-diffoutput-master.dir   = "";
   inputs.src-diffoutput-master.type  = "github";
   
   inputs."diff".owner = "nim-nix-pkgs";

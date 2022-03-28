@@ -11,7 +11,6 @@
   inputs.src-diffoutput-v0_1_1.ref   = "refs/tags/v0.1.1";
   inputs.src-diffoutput-v0_1_1.owner = "JohnAD";
   inputs.src-diffoutput-v0_1_1.repo  = "diffoutput";
-  inputs.src-diffoutput-v0_1_1.dir   = "";
   inputs.src-diffoutput-v0_1_1.type  = "github";
   
   inputs."diff".owner = "nim-nix-pkgs";
